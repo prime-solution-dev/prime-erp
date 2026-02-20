@@ -1,2 +1,2 @@
 # prime-erp
-Starnd new
+standard new
